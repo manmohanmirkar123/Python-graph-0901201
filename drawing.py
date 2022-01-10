@@ -10,4 +10,4 @@ for i in range(200):
     t.color(mylist[i%5])
     t.pensize(i/10+1)
     t.forward(i)
-    t.left(75)
+    t.left(59)
